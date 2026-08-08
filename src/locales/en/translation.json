@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "works": "Works",
+    "experience": "Experience",
+    "contact": "Contact",
+    "hireMe": "Hire Me"
+  },
+  "hero": {
+    "tag": "Available for Freelance — Helsinki, Finland",
+    "firstName": "MOUADH",
+    "lastName": "DHIF",
+    "description": "Lead UI/UX Designer & Product Strategist. I transform complex product challenges into precise, high-impact digital experiences. 3+ years. 30+ delivered projects.",
+    "viewWorks": "View Works",
+    "getInTouch": "Get In Touch",
+    "projectsDelivered": "Projects Delivered",
+    "yearsExperience": "Years Experience",
+    "clientSatisfaction": "Client Satisfaction"
+  },
+  "about": {
+    "tag": "About",
+    "heading1": "DESIGN",
+    "heading2": "WITH",
+    "heading3": "PURPOSE",
+    "description1": "I'm a Lead UI/UX Designer with over 3 years of experience transforming complex product challenges into precise, measurable experiences. Pixel perfection meets business outcomes — every time.",
+    "description2": "From Figma prototypes that make stakeholders speechless to design systems that scale across entire product orgs — I obsess over the details that build trust and drive conversion.",
+    "downloadResume": "Download Resume",
+    "fullName": "Full Name",
+    "fullNameValue": "Mouadh Dhif",
+    "location": "Location",
+    "locationValue": "Helsinki, Finland",
+    "email": "Email",
+    "emailValue": "dhif_mouadh@hotmail.fr",
+    "phone": "Phone",
+    "phoneValue": "+358 44970 314 9",
+    "status": "Status",
+    "statusValue": "Open for Global Projects"
+  },
+  "skills": {
+    "tag": "Expertise",
+    "heading1": "SKILLS &",
+    "heading2": "TOOLS",
+    "subtitle": "Years of deliberate practice compressed into tools that deliver measurable results.",
+    "coreCompetencies": "Core Competencies",
+    "uiDesign": "UI Design",
+    "uxResearch": "UX Research",
+    "wireframing": "Wireframing & IA",
+    "prototyping": "Interactive Prototyping",
+    "toolStack": "Tool Stack"
+  },
+  "works": {
+    "tag": "Portfolio",
+    "heading1": "SELECTED",
+    "heading2": "WORKS",
+    "viewProject": "View Project ↗",
+    "projects": {
+      "asap": "Professional car repair service landing page with contact form and service showcase.",
+      "lottadhif": "Online portfolio and CV for veterinary professional showcasing qualifications, experience, and professional services.",
+      "axa": "Full-stack barber booking platform with appointment dashboard, email notifications, and client management system."
+    }
+  },
+  "github": {
+    "tag": "MORE WORK",
+    "heading1": "EXPLORE MORE",
+    "heading2": "LOCAL PROJECTS",
+    "description": "Discover additional projects, experiments, and open-source contributions on my GitHub profile.",
+    "visitGithub": "VISIT GITHUB →"
+  },
+  "experience": {
+    "tag": "Career",
+    "heading1": "EXPERIENCE",
+    "heading2": "TIMELINE",
+    "jobs": {
+      "freelance": "Designing and developing custom web applications and digital solutions for clients. Creating wireframes, prototypes, and high-fidelity mockups in Figma. Conducting user research and usability testing to inform design decisions. Collaborating with clients to understand requirements and deliver tailored UX/UI solutions. Building responsive websites and booking platforms with focus on user experience.",
+      "logistics": "Coordinating warehouse management and logistics operations. Monitoring and optimizing inventory to improve efficiency. Ensuring communication between warehouse staff and delivery teams. Processing logistics documentation and entering data into the system. Developing workflow and improving efficiency in collaboration with the team.",
+      "security": "Assessing information security risks and identifying system vulnerabilities. Designing and implementing security solutions, such as encryption and access control. Monitoring security logs and identifying threats. Responding to security incidents and conducting forensic investigations. Developing security policies and monitoring compliance.",
+      "itsupport": "Providing software support to customers via phone and email. Resolving software installation, configuration, and connectivity issues. Delivering excellent customer service and technical solutions.",
+      "receptionist": "Receiving and assisting visitors with inquiries. Managing appointments and maintaining information systems. Providing excellent customer service and improving customer satisfaction."
+    }
+  },
+  "contact": {
+    "tag": "Let's Work Together",
+    "heading1": "START A",
+    "heading2": "PROJECT",
+    "nameInput": "Your Name",
+    "emailInput": "Email Address",
+    "categoryInput": "Project Category",
+    "budgetInput": "Budget Range",
+    "messageInput": "Tell me about your project...",
+    "submitButton": "Send Message →",
+    "submittingButton": "Sending...",
+    "sentButton": "✓ Message Sent"
+  },
+  "marquee": {
+    "marquee1": "UI/UX DESIGN — PRODUCT STRATEGY — FIGMA — INTERACTION DESIGN — HELSINKI",
+    "marquee2": "AVAILABLE FOR FREELANCE — OPEN FOR GLOBAL PROJECTS — REMOTE READY — LET'S BUILD"
+  }
+}

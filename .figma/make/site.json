@@ -1,0 +1,10 @@
+{
+  "description": "Guides users through step-by-step processes to complete tasks efficiently, enhancing productivity and ensuring accuracy for professionals and learners alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

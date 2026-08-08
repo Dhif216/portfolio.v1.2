@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "about": "Tietoja",
+    "skills": "Taidot",
+    "works": "Työt",
+    "experience": "Kokemus",
+    "contact": "Yhteystiedot",
+    "hireMe": "Palkkaa Minut"
+  },
+  "hero": {
+    "tag": "Saatavilla Freelancelle — Helsinki, Suomi",
+    "firstName": "MOUADH",
+    "lastName": "DHIF",
+    "description": "Johtava UX/UI-suunnittelija ja tuotestrateegi. Muunnan monimutkaiset tuotehaasteet tarkoiksi, vaikuttaviksi digitaalisiksi kokemuksiksi. 3+ vuotta. 30+ toimitettua projektia.",
+    "viewWorks": "Katso Työt",
+    "getInTouch": "Ota Yhteyttä",
+    "projectsDelivered": "Projektia Toimitettu",
+    "yearsExperience": "Vuosien Kokemus",
+    "clientSatisfaction": "Asiakastyytyväisyys"
+  },
+  "about": {
+    "tag": "Tietoja",
+    "heading1": "SUUNNITTELU",
+    "heading2": "TARKOITUKSELLA",
+    "heading3": "TARKOITUKSELLA",
+    "description1": "Olen johtava UX/UI-suunnittelija, jolla on yli 3 vuoden kokemus monimutkaisten tuotehaasteita muuntamisesta tarkoiksi, mitattavissa oleviksi kokemuksiksi. Pikseliperfektion ja liiketoiminnan tulosten yhdistelmä — aina.",
+    "description2": "Figma-prototyypeista, jotka saavat sidosryhmät hämmennyksiin, suunnittelujärjestelmiin, jotka skaalautuvat koko tuoteyrityksissä — minä olemme tarkkojen seikkojen kanssa jotka rakentavat luottamusta ja kannustavat muuntamista.",
+    "downloadResume": "Lataa Ansioluettelo",
+    "fullName": "Koko Nimi",
+    "fullNameValue": "Mouadh Dhif",
+    "location": "Sijainti",
+    "locationValue": "Helsinki, Suomi",
+    "email": "Sähköposti",
+    "emailValue": "dhif_mouadh@hotmail.fr",
+    "phone": "Puhelin",
+    "phoneValue": "+358 44970 314 9",
+    "status": "Tila",
+    "statusValue": "Avoin Globaaleille Projekteille"
+  },
+  "skills": {
+    "tag": "Osaaminen",
+    "heading1": "TAIDOT &",
+    "heading2": "TYÖKALUT",
+    "subtitle": "Vuosien tarkoituksellinen harjoittelu tiivistetty työkaluiksi, jotka tuottavat mitattavia tuloksia.",
+    "coreCompetencies": "Ydinpätevyydet",
+    "uiDesign": "UI-suunnittelu",
+    "uxResearch": "UX-tutkimus",
+    "wireframing": "Rautalankamalli & IA",
+    "prototyping": "Interaktiivinen Prototypointi",
+    "toolStack": "Työkalujen Pino"
+  },
+  "works": {
+    "tag": "Portfolio",
+    "heading1": "VALITUT",
+    "heading2": "TYÖT",
+    "viewProject": "Katso Projekti ↗",
+    "projects": {
+      "asap": "Ammattimainen autokorjauspalvelun laskeutumissivu yhteystietolomakkeella ja palvelun esittelyllä.",
+      "lottadhif": "Eläinlääkärin ammattilaiselle tarkoitettu online-salkku ja CV-sivu, joka esittelee pätevyyksiä, kokemusta ja ammatillisia palveluja.",
+      "axa": "Täyden pinon kampaamovaus-alusta, jossa on varauskäytäntö, sähköpostilmoitukset ja asiakkaiden hallintajärjestelmä."
+    }
+  },
+  "github": {
+    "tag": "LISÄÄ TYÖTÄ",
+    "heading1": "TUTUSTU LISÄÄ",
+    "heading2": "PAIKALLISIIN PROJEKTEIHIN",
+    "description": "Tutustu lisäprojekteihin, kokeiluihin ja avoimen lähdekoodin kontribuutioihin GitHub-profiilissani.",
+    "visitGithub": "VIERAILE GITHUBISSA →"
+  },
+  "experience": {
+    "tag": "Ura",
+    "heading1": "KOKEMUS",
+    "heading2": "AIKAJANA",
+    "jobs": {
+      "freelance": "Suunnittelemme ja kehitämme asiakkaiden räätälöityjä verkkosovelluksia ja digitaalisia ratkaisuja. Wireframen, prototyypin ja korkearesoluutioisten mockup-kuvien luominen Figmassa. Käyttäjätutkimuksen ja käytettävyystestauksen suorittaminen muotoilupäätösten perustelemiseksi. Yhteistyö asiakkaiden kanssa vaatimusten ymmärtämiseksi ja räätälöityjen UX/UI-ratkaisujen toimittamiseksi. Responsiivisten verkkosivustojen ja varausjärjestelmien rakentaminen käyttäjäkokemukseen keskittyen.",
+      "logistics": "Varaston hallinnon ja logistiikkatoimintojen koordinointi. Varaston seurantaa ja optimointia tehokkuuden parantamiseksi. Varaston henkilöstön ja toimitusten välisen viestinnän varmistaminen. Logistiikka-asiakirjojen käsittely ja tietojen syöttäminen järjestelmään. Työnkulun kehittäminen ja tehokkuuden parantaminen yhteistyössä tiimin kanssa.",
+      "security": "Tietoturvan riskien arviointi ja järjestelmän heikkouksien tunnistaminen. Suunnittelun ja ottaminen käyttöön tietoturvaksi, kuten salaus ja pääsynvalvonta. Suojauksellisten lokien seuranta ja uhkien tunnistaminen. Tietoturvapoikkeamiin vastaaminen ja rikosteknisten tutkimuksien suorittaminen. Tietoturvan politiikan kehittäminen ja vaatimuksenmukaisuuden seuranta.",
+      "itsupport": "Ohjelmistotuki asiakkaille puhelimitse ja sähköpostilla. Ohjelmiston asennuksen, määrityksen ja yhteyden ongelmien ratkaiseminen. Erinomaisen asiakaspalvelun ja teknisten ratkaisujen tarjoaminen.",
+      "receptionist": "Vierailijoiden vastaanottaminen ja auttaminen heidän tiedusteluissa. Tapaamisten hallinta ja tietojärjestelmien ylläpito. Erinomaisen asiakaspalvelun tarjoaminen ja asiakastyytyväisyyden parantaminen."
+    }
+  },
+  "contact": {
+    "tag": "Aloitetaan Yhteistyö",
+    "heading1": "ALOITA",
+    "heading2": "PROJEKTI",
+    "nameInput": "Nimesi",
+    "emailInput": "Sähköpostiosoite",
+    "categoryInput": "Projektin Luokka",
+    "budgetInput": "Budjetti",
+    "messageInput": "Kerro minulle projektistasi...",
+    "submitButton": "Lähetä Viesti →",
+    "submittingButton": "Lähetetään...",
+    "sentButton": "✓ Viesti Lähetetty"
+  },
+  "marquee": {
+    "marquee1": "UX/UI-SUUNNITTELU — TUOTESTRATEGIA — FIGMA — VUOROVAIKUTUKSEN SUUNNITTELU — HELSINKI",
+    "marquee2": "SAATAVILLA FREELANCELLE — AVOIN GLOBAALEILLE PROJEKTEILLE — ETÄTÖIHIN VALMIS — RAKENNETAAN"
+  }
+}
