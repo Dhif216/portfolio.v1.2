@@ -462,7 +462,7 @@ function About() {
             </p>
 
             <button
-              onClick={() => window.open("/resume.html", "_blank")}
+              onClick={() => window.open("/portfolio.v1.2/resume.html", "_blank")}
               className="hard-btn mt-10 flex items-center gap-3"
             >
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
